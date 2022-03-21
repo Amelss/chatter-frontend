@@ -4,7 +4,7 @@
 function App() {
   return (
     <div className="">
-      <h1>hi</h1>
+      <h1 className="text-green-500 text-3xl uppercase underline">hi</h1>
     
     </div>
   );
