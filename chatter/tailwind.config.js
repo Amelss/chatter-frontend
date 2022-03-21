@@ -15,6 +15,7 @@ module.exports = {
         ceruleanFrost: "#6D9DC5",
         princetonOrange: "#FF8427",
         portlandOrange: "#F46036",
+        cadmiumOrange: "#F28F3B",
       },
     },
     plugins: [],
