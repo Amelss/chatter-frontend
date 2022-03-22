@@ -3,3 +3,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.signup{
+    @apply border border-gray-100 rounded-md pl-3 py-2 w-full mt-2 md:w-full placeholder:text-sm placeholder:text-gray-300 
+}
